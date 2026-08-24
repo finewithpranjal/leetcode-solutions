@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -118,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->

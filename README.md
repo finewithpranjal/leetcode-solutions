@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0692-top-k-frequent-words](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Trie
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |

@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int fib(int n) {
-        // base case 
+    int fibonacci(int n) {
         if(n<=1) return n;
-        int last = fib(n-1);
-        int slast = fib(n-2);
-        return last+slast;
-        
+
+        return fibonacci(n-1) + fibonacci(n-2);
     }
+    int fib(int n) {
+      return  fibonacci(n);
+     }
 };

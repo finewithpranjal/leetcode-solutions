@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -171,9 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

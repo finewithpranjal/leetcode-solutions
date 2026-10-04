@@ -1,35 +1,28 @@
 class Solution {
 public:
-    void fun(vector<int>& arr, int n, vector<bool> &visited, vector<int>& diary,
-             vector<vector<int>>& res) {
-        // Base Case
-        if (diary.size() == n) {
+    void findpermute(vector<int> &arr, vector<int> &diary, vector<vector<int>> &res, vector<bool> &visited) {
+        if(diary.size() == arr.size()) {
             res.push_back(diary);
             return;
         }
-        
-        // calling the function;
-        for (int idx = 0;  idx<n;  idx++) {
-
-            if(visited[idx]) {
+        for (int i = 0; i<arr.size(); i++) {
+            if(visited[i]) {
                 continue;
-            }
-           visited[idx] = true;
-           diary.push_back(arr[idx]);
-           
-           fun(arr, n,  visited , diary, res);
-           diary.pop_back();
-           visited[idx] = false;
+            } 
+            visited[i] = true;
+            diary.push_back(arr[i]);
+            findpermute(arr, diary, res, visited);
+            visited[i] = false;
+            diary.pop_back();
+            
         }
         return;
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        int n = nums.size();
-        int idx = 0;
-        vector<int> diary;
-        vector<vector<int>> res;
-        vector<bool> visited(n, false);
-        fun(nums, n, visited, diary, res);
+        vector<int>diary;
+        vector<vector<int>>res;
+        vector<bool> visited (nums.size(), false);
+        findpermute(nums, diary, res, visited);
         return res;
     }
 };

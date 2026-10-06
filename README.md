@@ -185,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/finewithpranjal/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/finewithpranjal/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->

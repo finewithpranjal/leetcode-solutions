@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2236-root-equals-sum-of-children](https://github.com/finewithpranjal/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2236-root-equals-sum-of-children](https://github.com/finewithpranjal/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,16 +292,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
 |  |
 | ------- |
@@ -324,4 +331,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/finewithpranjal/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->

@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0692-top-k-frequent-words](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/finewithpranjal/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
